@@ -1,4 +1,5 @@
-#1
-r = int(input("Enter radius: "))
-s = 3.14*r**3
-print("S of sphere = ", s)
+#2
+a = int(input("First number: "))
+b = int(input("Second num: "))
+c = a%b
+print("ostacha =", c)
