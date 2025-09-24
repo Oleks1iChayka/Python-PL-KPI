@@ -1,3 +1,6 @@
-r = int(input("Enter radius: "))
-s = 3.14*r**3
-print("S of sphere = ", s)
+a = float(input("Введіть основу a: "))
+b = float(input("Введіть основу b: "))
+h = float(input("Введіть висоту h: "))
+
+area = (a + b) * h / 2
+print("Площа трапеції =", area)
